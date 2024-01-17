@@ -1,5 +1,6 @@
 # SmartRoom
 Projeto realizado dentro da cadeira de Introdução a Robótica, simulando um sistema ambiente indoor inteligente.
+https://www.tinkercad.com/things/hHbspQZawFO-atividade-2/editel?sharecode=P9qWSPVysLJNI9onLQf-s5X1JrHhvgXxFc06WemDQf8&authuser=1
 
 # Visão geral
 Esse circuito consiste em criar um sistema para um ambiente indoor inteligente. Este ambiente deve conter as seguintes funcionalidades:
