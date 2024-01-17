@@ -33,4 +33,3 @@ Foram utilizados, no tinkercad:
 
 ![Alt text](<Sensor room.png>)
 ![Alt text](image.png)
-(https://github.com/RennanCarneiro/SmartRoom.git)https://github.com/RennanCarneiro/SmartRoom.git
